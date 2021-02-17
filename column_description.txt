@@ -1,0 +1,31 @@
+Column Description 
+==================
+Column 1: subject = identification of the subject of the measurement
+Column 2: type = the original base for the record (train or test)
+Column 3: activity = the activity being held at the time of the measurement
+Columns 4 - 82:
+
+For each of the following variables (XYZ means that there are three of those variables, one for each axis):
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+The set of variables that were estimated from these signals are: 
+
+mean(): Mean value
+std(): Standard deviation
+
